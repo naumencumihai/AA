@@ -1,0 +1,73 @@
+Memory used for compression of test1:
+Huffman compression | 2993.1484375 KB
+Huffman compression | 2993.1171875 KB
+Huffman compression | 2992.25 KB
+Huffman compression | 2992.2734375 KB
+Huffman compression | 2992.25 KB
+Memory used for compression of test2:
+Huffman compression | 11184.125 KB
+Huffman compression | 11184.125 KB
+Huffman compression | 11184.125 KB
+Huffman compression | 11184.1328125 KB
+Huffman compression | 11184.1328125 KB
+Memory used for compression of test3:
+Huffman compression | 13785.15625 KB
+Huffman compression | 13785.15625 KB
+Huffman compression | 13785.0625 KB
+Huffman compression | 13785.0625 KB
+Huffman compression | 13785.0859375 KB
+Memory used for compression of test4:
+Huffman compression | 17408.0 KB
+Huffman compression | 17408.0 KB
+Huffman compression | 17408.0 KB
+Huffman compression | 17408.0 KB
+Huffman compression | 17408.0 KB
+Memory used for compression of test5:
+Huffman compression | 25743.0390625 KB
+Huffman compression | 25745.484375 KB
+Huffman compression | 25541.140625 KB
+Huffman compression | 26573.1875 KB
+Huffman compression | 25745.0703125 KB
+Memory used for compression of test6:
+Huffman compression | 34758.859375 KB
+Huffman compression | 33936.2421875 KB
+Huffman compression | 33733.6796875 KB
+Huffman compression | 32911.2421875 KB
+Huffman compression | 32390.8359375 KB
+Memory used for compression of test7:
+Huffman compression | 60527.5 KB
+Huffman compression | 53985.0 KB
+Huffman compression | 59945.0 KB
+Huffman compression | 53725.5 KB
+Huffman compression | 52727.5 KB
+Memory used for compression of test8:
+Huffman compression | 133633.234375 KB
+Huffman compression | 132096.8359375 KB
+Huffman compression | 133121.7109375 KB
+Huffman compression | 132609.4375 KB
+Huffman compression | 133119.21875 KB
+Memory used for compression of test9:
+Huffman compression | 122749.0 KB
+Huffman compression | 135388.0 KB
+Huffman compression | 130784.5 KB
+Huffman compression | 132316.0 KB
+Huffman compression | 112509.0 KB
+Memory used for compression of test10:
+Huffman compression | 80098.265625 KB
+Huffman compression | 90626.0 KB
+Huffman compression | 156465.5 KB
+Huffman compression | 161167.4921875 KB
+Huffman compression | 75230.5 KB
+Memory used for compression of test11:
+Huffman compression | 642560.0 KB
+Huffman compression | 617472.0 KB
+Huffman compression | 644608.0 KB
+Huffman compression | 513024.0 KB
+Huffman compression | 713216.0 KB
+Memory used for compression of test12:
+Huffman compression | Out of memory error
+Huffman compression | Out of memory error
+Huffman compression | Out of memory error
+Huffman compression | Out of memory error
+Huffman compression | Out of memory error
+

@@ -1,0 +1,47 @@
+Compression times for test1:
+Arithmetic compression | 0.0106821s
+Huffman compression | 0.0232615s
+
+Compression times for test2:
+Arithmetic compression | 0.0092617s
+Huffman compression | 0.3253694s
+
+Compression times for test3:
+Arithmetic compression | 0.0044324s
+Huffman compression | 0.3200279s
+
+Compression times for test4:
+Arithmetic compression | 0.0105042s
+Huffman compression | 0.1734338s
+
+Compression times for test5:
+Arithmetic compression | 0.0188688s
+Huffman compression | 0.3497133s
+
+Compression times for test6:
+Arithmetic compression | 0.0124062s
+Huffman compression | 0.3380325s
+
+Compression times for test7:
+Arithmetic compression | 0.0320673s
+Huffman compression | 0.97722s
+
+Compression times for test8:
+Arithmetic compression | 0.0506261s
+Huffman compression | 1.4266691s
+
+Compression times for test9:
+Arithmetic compression | 0.0678806s
+Huffman compression | 1.7302993s
+
+Compression times for test10:
+Arithmetic compression | 0.0720892s
+Huffman compression | 2.0199447s
+
+Compression times for test11:
+Arithmetic compression | 0.5176624s
+Huffman compression | 12.5575602s
+
+Compression times for test12:
+Arithmetic compression | 11.0289972s
+Huffman compression | "Out of memory error"

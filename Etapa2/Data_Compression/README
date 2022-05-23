@@ -1,0 +1,25 @@
+Naumencu Mihai
+322 CD
+
+	Am realizat implementarea efectiva a algoritmilor folosind IntelliJ IDEA
+Proiectul contine doua pachete cu implemetarile efective ale celor doi
+algoritmi alesi (Huffman coding si Arithmetic coding). In pechetul "Arithmetic"
+sunt implementate compresia si decompresia folosind Arithmetic coding in doua
+clase separate, de asemenea pachetul contine mai multe clase ajutatoare precum
+tabelul de frecventa; encoder, decoder, bitsin, bitsout (folosite pentru scrierea,
+citirea in fisier). In pachetul Huffman sunt implementate atat compresia cat si
+decompresia in aceeasi clasa "Huffman", aceasta contine doua fisiere ajutatoare
+binarytofile si chariterator.
+
+	Testele se regasesc in folderul tests\in\, acestea sunt 12 la numar, sunt
+fisiere de tip text si marimea acestora creste in functie de numarul lor 
+(testul 4 ~ 18.5 KB; testul 8 ~ 507 KB; testul 12 ~ 100MB). Acestea contin
+diverse texte precum poezii (Mihai Eminescu, Lucian Blaga) opere literare istorice
+(Republica - Plato, Odisea - Homer, Bibila - ???) si o baza de data wikipedia
+(testul 12).
+
+	Clasa main are mai multe functionalitati, crearea testelor .out in folderul
+tests/out/ (fisierele compresate), crearea testelor .out in folderul tests/out_de/
+(fisiere decompresate plcand de la cele din tests\out\) si functii de verificare a
+performantei la compresie (timpul de executie si memoria folosita), rezultatele
+acestor verificari se regasesc in folderul results\.

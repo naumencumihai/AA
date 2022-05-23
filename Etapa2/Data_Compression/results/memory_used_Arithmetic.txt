@@ -1,0 +1,72 @@
+Memory used for compression of test1:
+Arithmetic compression | 2522.0546875 KB
+Arithmetic compression | 2522.0546875 KB
+Arithmetic compression | 2521.1015625 KB
+Arithmetic compression | 2522.0546875 KB
+Arithmetic compression | 2521.1015625 KB
+Memory used for compression of test2:
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2992.2421875 KB
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2992.15625 KB
+Memory used for compression of test3:
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2992.15625 KB
+Arithmetic compression | 2993.109375 KB
+Memory used for compression of test4:
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2993.109375 KB
+Arithmetic compression | 2993.109375 KB
+Memory used for compression of test5:
+Arithmetic compression | 4016.109375 KB
+Arithmetic compression | 4016.109375 KB
+Arithmetic compression | 4016.109375 KB
+Arithmetic compression | 4016.109375 KB
+Arithmetic compression | 4016.109375 KB
+Memory used for compression of test6:
+Arithmetic compression | 4096.0 KB
+Arithmetic compression | 4569.0859375 KB
+Arithmetic compression | 4016.109375 KB
+Arithmetic compression | 4016.109375 KB
+Arithmetic compression | 4016.3125 KB
+Memory used for compression of test7:
+Arithmetic compression | 5120.0 KB
+Arithmetic compression | 4569.0546875 KB
+Arithmetic compression | 7641.1484375 KB
+Arithmetic compression | 5593.0546875 KB
+Arithmetic compression | 5120.0 KB
+Memory used for compression of test8:
+Arithmetic compression | 4569.0546875 KB
+Arithmetic compression | 10160.109375 KB
+Arithmetic compression | 5593.0703125 KB
+Arithmetic compression | 5593.0546875 KB
+Arithmetic compression | 10240.0 KB
+Memory used for compression of test9:
+Arithmetic compression | 5593.0546875 KB
+Arithmetic compression | 5040.109375 KB
+Arithmetic compression | 12208.109375 KB
+Arithmetic compression | 5040.109375 KB
+Arithmetic compression | 5593.0546875 KB
+Memory used for compression of test10:
+Arithmetic compression | 13786.1328125 KB
+Arithmetic compression | 5040.109375 KB
+Arithmetic compression | 5593.0546875 KB
+Arithmetic compression | 13232.109375 KB
+Arithmetic compression | 5040.109375 KB
+Memory used for compression of test11:
+Arithmetic compression | 4569.0546875 KB
+Arithmetic compression | 14307.59375 KB
+Arithmetic compression | 14311.6328125 KB
+Arithmetic compression | 5040.109375 KB
+Arithmetic compression | 13820.375 KB
+Memory used for compression of test12:
+Arithmetic compression | 62911.0 KB
+Arithmetic compression | 62911.0 KB
+Arithmetic compression | 62911.5 KB
+Arithmetic compression | 6617.15625 KB
+Arithmetic compression | 62911.5 KB
